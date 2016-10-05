@@ -1,0 +1,5 @@
+var dict = {
+"token" : "http://challenge.code2040.org/api/register"
+"github" : "https://github.com/liamhernandzz/techassess"
+
+}; //json dictionary with token and github 
